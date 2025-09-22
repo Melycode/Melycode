@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
-<h3 align="center">💻 I’m currently learning GitHub, JavaScript, Python, and more every day 🐾 Cat lover & digital creativity enthusiast</h3>
+<h3 align="center">💻 I’m currently learning GitHub, JavaScript, Python, and more every day <br>🐾 Cat lover & digital creativity enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
